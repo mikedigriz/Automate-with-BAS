@@ -1017,7 +1017,7 @@ Detector=true
                <Visible>1</Visible>
                <Enabled>1</Enabled>
                <AllowedTypes>LinesFromFile</AllowedTypes>
-               <Filename>C:/Users/Admin/Downloads/hh_cookies.txt</Filename>
+               <Filename>C:/Users/Admin/Downloads/Automate-with-BAS/cookies/hh_cookies.txt</Filename>
                <Clean>0</Clean>
                <Read>1</Read>
                <Mix>0</Mix>
